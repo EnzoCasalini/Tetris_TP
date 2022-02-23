@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "tâche-Shape",
+      "appliesTo": "Shape.cs",
+      "type": "launch"
+    }
+  ]
+}
